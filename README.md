@@ -27,7 +27,7 @@ The multivariate regression model explains 30.4% of the variance in `Reviewer_Sc
 - `Hotel Reviews Statistical & Correlation Analyses.ipynb`: Jupyter notebook containing the detailed step-by-step statistical and correlation analyses performed on the dataset.
 - `requirements.txt`: Python package dependencies required to run the analysis, including libraries like `pandas`, `numpy`, `statsmodels`, and `matplotlib`.
 - `README.md`: Project overview and usage instructions.
-- `customer_satisfaction_report.md`: Summary of findings and recommendations.
+- `Statistical Analysis Report.md`: Summary of findings and recommendations (to be added).
 
 ## How to Use
 1. Clone the repository:
